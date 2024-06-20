@@ -1,0 +1,7 @@
+cv2
+re
+easyocr
+Streamlit
+PIL
+numpy
+pytesseract
