@@ -1,7 +1,7 @@
 opencv-python
-re
+regex
 easyocr
 Streamlit
-PIL
+pillow
 numpy
 pytesseract
