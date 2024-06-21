@@ -1,6 +1,6 @@
 streamlit-drawable-canvas
-cv2
-re
+opencv-python-headless
+regex
 easyocr
 Streamlit
 PIL
