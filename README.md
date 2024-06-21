@@ -24,6 +24,10 @@ You can install these using pip:
 ```sh
 pip install easyocr opencv-python numpy streamlit streamlit-drawable-canvas
 ```
+or use the requirements.txt:
+```sh
+pip install -r requirements.txt
+```
 
 ## Project Overview
 The project is built in an iterative manner, enhancing functionality with each step:
