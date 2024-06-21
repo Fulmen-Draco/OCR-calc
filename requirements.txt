@@ -3,6 +3,6 @@ opencv-python-headless
 regex
 easyocr
 Streamlit
-PIL
+pillow
 numpy
 pytesseract
