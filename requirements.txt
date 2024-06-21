@@ -1,7 +1,8 @@
-opencv-python-headless
-regex
+streamlit-drawable-canvas
+cv2
+re
 easyocr
 Streamlit
-pillow
+PIL
 numpy
 pytesseract
